@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LostFortune", "LostFortune.vcxproj", "{9EFDB369-C64E-4097-8BEF-3FC4AD57E40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EFDB369-C64E-4097-8BEF-3FC4AD57E40C}.Debug|x64.ActiveCfg = Debug|x64
+		{9EFDB369-C64E-4097-8BEF-3FC4AD57E40C}.Debug|x64.Build.0 = Debug|x64
+		{9EFDB369-C64E-4097-8BEF-3FC4AD57E40C}.Debug|x86.ActiveCfg = Debug|Win32
+		{9EFDB369-C64E-4097-8BEF-3FC4AD57E40C}.Debug|x86.Build.0 = Debug|Win32
+		{9EFDB369-C64E-4097-8BEF-3FC4AD57E40C}.Release|x64.ActiveCfg = Release|x64
+		{9EFDB369-C64E-4097-8BEF-3FC4AD57E40C}.Release|x64.Build.0 = Release|x64
+		{9EFDB369-C64E-4097-8BEF-3FC4AD57E40C}.Release|x86.ActiveCfg = Release|Win32
+		{9EFDB369-C64E-4097-8BEF-3FC4AD57E40C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {566F62B3-AAAD-4D22-9DBA-48903CE1C82E}
+	EndGlobalSection
+EndGlobal
